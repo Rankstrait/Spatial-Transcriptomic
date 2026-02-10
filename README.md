@@ -1,2 +1,1 @@
-Code regarding spatial transcriptomic.
-Khoya andiamo avanti
+Try to extract useful information from spatial transcriptomic data
