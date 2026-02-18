@@ -1,0 +1,9 @@
+name: visual
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - napari
+  - pyqt
+prefix: /home/stefano/miniconda3/envs/visual
