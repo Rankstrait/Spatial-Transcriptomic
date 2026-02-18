@@ -1,0 +1,14 @@
+name: analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - mamba
+  - spatialdata
+  - spatialdata-io
+  - spatialdata-plot
+  - napari-spatialdata
+  - pytorch[build=cpu*]
+  - pyqt
+prefix: /home/stefano/miniconda3/envs/analysis
