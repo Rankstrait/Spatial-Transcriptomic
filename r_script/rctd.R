@@ -1,3 +1,6 @@
+#Tried to launch rctd on R but have a lot of issues of data compatibility from Python to R, for this reason I've run rctd directly 
+#on Python
+
 library(zellkonverter)
 library(SingleCellExperiment)
 library(spacexr)
